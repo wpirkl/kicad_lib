@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +5Viso
+K POWER, PWR
+$ENDCMP
+#
 $CMP ADuM5240ARZ
 D Dual-Channel Isolators with isoPower Integrated DC-to-DC Converter, 50 mW
 K isopower isolation isolator
@@ -16,6 +20,10 @@ $CMP ADuM5242ARZ
 D Dual-Channel Isolators with isoPower Integrated DC-to-DC Converter, 50 mW
 K isopower isolation isolator
 F datasheets/ADUM5240_5241_5242.pdf
+$ENDCMP
+#
+$CMP GNDiso
+K POWER, PWR
 $ENDCMP
 #
 #End Doc Library
