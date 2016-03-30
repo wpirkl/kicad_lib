@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRFH8201
+D HEXFET® Power MOSFET
+K mosfet-n mosfet
+F datasheets/irfh8201pbf.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS723LLCTR-05AB
+D 5A Bidirectional Current Sensor with Hall Sensor, SO-8
+K Hall Effect Current Sensor
+F datasheets/ACS723.pdf
+$ENDCMP
+#
+$CMP ACS724LLCTR-10AU
+D Automotive-Grade, Galvanically Isolated Current Sensor IC With Common-Mode Field Rejection in a Small-Footprint SOIC8 Package
+F dataheets/ACS724.pdf
+$ENDCMP
+#
+$CMP IRFH8201
+D HEXFET® Power MOSFET
+K mosfet-n mosfet
+F datasheets/irfh8201pbf.pdf
+$ENDCMP
+#
+#End Doc Library
