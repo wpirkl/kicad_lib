@@ -1,0 +1,58 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1042P
+D KEYSTONE - 1042P - BATTERY HOLDER, 18650, SMD
+F https://componentsearchengine.com/Datasheets/1/1042P.pdf
+$ENDCMP
+#
+$CMP 113990582
+D Bluetooth Modules (802.15.1) MDBT50Q-1M nRF52840 Based BLE Module
+F http://www.raytac.com/download/index.php?index_id=24
+$ENDCMP
+#
+$CMP BAT-HLD-001
+D Coin Cell Battery Holders Linx CR2032 Battery Holder
+F https://componentsearchengine.com/Datasheets/1/BAT-HLD-001.pdf
+$ENDCMP
+#
+$CMP ECMF02-4CMX8
+D Common Mode Filter & ESD Prot. USB uQFN8 STMicroelectronics ECMF02 Series, Signal Filter uQFN SMD, Flat Contact Termination, 2.6 x 1.3 x 0.6mm
+F https://componentsearchengine.com/Datasheets/1/ECMF02-4CMX8.pdf
+$ENDCMP
+#
+$CMP EVQ-6Q202W
+D Tactile Switches 6x6x2.5mm 0.8N W/O Grnd Term
+F https://componentsearchengine.com/Datasheets/1/EVQ-6Q202W.pdf
+$ENDCMP
+#
+$CMP FC-135_32.7680KA-A5
+D Crystal 0.032768MHz +/-20ppm (Tol) 12.5pF FUND 70000Ohm 2-Pin CSMD T/R
+F https://componentsearchengine.com/Datasheets/1/FC-135 32.7680KA-A5.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PMDPB30XN,115
+D MOSFET PMDPB30XN/HUSON6/REEL 7" Q1/T1
+F https://componentsearchengine.com/Datasheets/1/PMDPB30XN,115.pdf
+$ENDCMP
+#
+$CMP PMEG3005AESFYL
+D Schottky Diodes & Rectifiers 30V 0.5A MEGA Schottky
+F https://componentsearchengine.com/Datasheets/1/PMEG3005AESFYL.pdf
+$ENDCMP
+#
+$CMP XCL103D503CR-G
+D Switching Voltage Regulators Inductor Built-in Step-Up micro DCDC converter  PWM/PFM Automatic Switch Control
+F https://www.torexsemi.com/file/xcl102/XCL102-103.pdf
+$ENDCMP
+#
+$CMP XCL210C331GR-G
+D Switching Voltage Regulators 50mA Inductor micro DCDC Converter
+F https://www.torexsemi.com/file/xcl210/XCL210.pdf
+$ENDCMP
+#
+#End Doc Library
