@@ -5,11 +5,6 @@ D KEYSTONE - 1042P - BATTERY HOLDER, 18650, SMD
 F https://componentsearchengine.com/Datasheets/1/1042P.pdf
 $ENDCMP
 #
-$CMP 113990582
-D Bluetooth Modules (802.15.1) MDBT50Q-1M nRF52840 Based BLE Module
-F http://www.raytac.com/download/index.php?index_id=24
-$ENDCMP
-#
 $CMP BAT-HLD-001
 D Coin Cell Battery Holders Linx CR2032 Battery Holder
 F https://componentsearchengine.com/Datasheets/1/BAT-HLD-001.pdf
@@ -28,6 +23,11 @@ $ENDCMP
 $CMP FC-135_32.7680KA-A5
 D Crystal 0.032768MHz +/-20ppm (Tol) 12.5pF FUND 70000Ohm 2-Pin CSMD T/R
 F https://componentsearchengine.com/Datasheets/1/FC-135 32.7680KA-A5.pdf
+$ENDCMP
+#
+$CMP MDBT50Q-1MV2
+D Bluetooth Modules (802.15.1) MDBT50Q-1M nRF52840 Based BLE Module
+F http://www.raytac.com/download/index.php?index_id=24
 $ENDCMP
 #
 $CMP NE555DR
